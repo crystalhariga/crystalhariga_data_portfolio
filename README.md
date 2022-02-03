@@ -7,14 +7,14 @@ This page consists of a comprehensive archive of my data-related projects:
 
 
 ## Data Wrangling (1)
-#### [P1: Movie Catalog Database design](https://github.com/crystalhariga/movie-catalog)
+#### [P1: Movie Catalog Database Design](https://github.com/crystalhariga/movie-catalog)
 - Designed a data dictionary from 4 datasets for ease of accessibility to display movie information onto Movie Catalog web app
 - Designed the front-end of web app using Dash, incorporating interactive buttons to search through database
 - Implemented movie images using API from [themoviedb](https://www.themoviedb.org/)
 <br/>
 
 ## Data Visualization (1)
-#### [P1: Post-COVID Small Business Launch Recommendation](https://github.com/crystalhariga/data_visualization_consultancy)
+#### [P1: Post-COVID Small Business Launch Strategy](https://github.com/crystalhariga/data_visualization_consultancy)
 * Performed data preparation on 5 datasets (joining, aggregating, changing data types) using Tableau Prep and R
 * Conducted Exploratory Data Analysis (EDA) to determine impact of COVID on small business owners and identify largest opportunities for upcoming small business owners using R and Tableau
 * Recommended upcoming small business owners:
