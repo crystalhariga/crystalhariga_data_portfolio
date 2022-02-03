@@ -1,2 +1,6 @@
-# crystalhariga_data_portfolio
-This will be a comprehensive archive of my data projects
+# Data Analytics Portfolio
+This page consists of a comprehensive archive of my data-related projects:
+* Data Wrangling
+* Data Visualization
+* Data Modelling
+* And others!
