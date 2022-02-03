@@ -6,14 +6,16 @@ This page consists of a comprehensive archive of my data-related projects:
 * And others!
 
 
-## Data Wrangling
+## Data Wrangling (1)
 ### [P1: Movie Catalog Database design](https://github.com/crystalhariga/movie-catalog)
 - Designed a data dictionary from 4 datasets for ease of accessibility to display movie information onto Movie Catalog web app
 - Designed the front-end of web app using Dash, incorporating interactive buttons to search through database
 - Implemented movie images using API from [themoviedb](https://www.themoviedb.org/)
 
+https://user-images.githubusercontent.com/34080006/152405425-63914ad0-7259-4fe0-a40d-78e960effc75.mov
+<br/>
 
-## Data Visualization
+## Data Visualization (1)
 ### [P1: Post-COVID Small Business Launch Recommendation](https://github.com/crystalhariga/data_visualization_consultancy)
 * Performed data preparation on 5 datasets (joining, aggregating, changing data types) using Tableau Prep and R
 * Conducted Exploratory Data Analysis (EDA) to determine impact of COVID on small business owners and identify largest opportunities for upcoming small business owners using R and Tableau
@@ -21,8 +23,11 @@ This page consists of a comprehensive archive of my data-related projects:
     1. Ideal location: states with lower new COVID case rates (either west coast or central US); lower-income neighborhoods; near parks, transit stations, grocery stores, pharmacies
     2. Ideal industry: transportation supersector, including trade & utilities
     3. Ideal strategy: provide online experiences for customers and alternative options (pick-up, delivery, return, cancellation)
+![Change in Revenue by Change in Spending](https://github.com/crystalhariga/data_visualization_consultancy/tree/main/img/change_revenue_by_change_spending.png)
+![New COVID Case Rates by State](https://github.com/crystalhariga/data_visualization_consultancy/tree/main/img/new_covid_case_rates_by_state.png)
+<br/>
 
-## Data Modelling
+## Data Modelling (2)
 ### [P1: Predicting Cancer Cases in the US](https://github.com/crystalhariga/cancer_ml)
 * Performed data preparation (transformed variables, clustering) and EDA (descriptive statistics, simple visualization) to understand more about the dataset
 * Built Prediction (Regression Tree, Linear Regression) and Classification (KNN, Logistic Regression, Boosted Tree, Bagged Tree) models to predict annual cancer cases
