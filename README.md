@@ -13,7 +13,7 @@ This page consists of a comprehensive archive of my data-related projects:
 - Implemented movie images using API from [themoviedb](https://www.themoviedb.org/)
 
 
-#### [P2: COVID Dashboard](https://htmlpreview.github.io/?https://github.com/crystalhariga/covid-19_wrangling/blob/main/data_wrangling.nb.html)
+#### [P2: COVID Dashboard Data](https://htmlpreview.github.io/?https://github.com/crystalhariga/covid-19_wrangling/blob/main/data_wrangling.nb.html)
 - Built a data pipeline to transform 3 datasets with 171K+ observations into a usable format for a visualization dashboard web app to display time series data using R's tidyverse
 <br/>
 
