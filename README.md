@@ -1,16 +1,20 @@
 # Data Analytics Portfolio
 This page consists of a comprehensive archive of my data-related projects:
-* Data Wrangling
+* Data Quality
 * Data Visualization
 * Data Modelling
 * And others!
 
 
-## Data Wrangling (1)
+## Data Quality (2)
 #### [P1: Movie Catalog Database Design](https://github.com/crystalhariga/movie-catalog)
 - Designed a data dictionary from 4 datasets for ease of accessibility to display movie information onto Movie Catalog web app
 - Designed the front-end of web app using Dash, incorporating interactive buttons to search through database
 - Implemented movie images using API from [themoviedb](https://www.themoviedb.org/)
+
+
+#### [P2: COVID Dashboard](https://htmlpreview.github.io/?https://github.com/crystalhariga/covid-19_wrangling/blob/main/data_wrangling.nb.html)
+- Built a data pipeline to transform 3 datasets with 171K+ observations into a usable format for a visualization dashboard web app to display time series data using R's tidyverse
 <br/>
 
 ## Data Visualization (1)
