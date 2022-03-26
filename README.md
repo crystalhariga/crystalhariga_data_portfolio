@@ -14,7 +14,7 @@
 <br/>
 #### 2. [Movie Catalog Database Design](https://github.com/crystalhariga/movie-catalog)
 <br/>
-__Check out the [demo here!](https://github.com/crystalhariga/movie-catalog#demo)__
+__Check out the [demo here!]__(https://github.com/crystalhariga/movie-catalog#demo)
 <br/>
 *Keywords*: Web development, API integration, Search algorithm
 *Tools*: Python (pandas, dash, requests, readData)
