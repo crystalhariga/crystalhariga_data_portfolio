@@ -6,13 +6,16 @@
 ## Projects
 #### 1. [Let's Catch Them Stronger Pokemon!](https://github.com/crystalhariga/pokemon)
 ![](https://github.com/crystalhariga/pokemon/blob/main/img/total-stats_by_primary-type.png)
+<br/>
 *Keywords*: Data Visualization, Missing Data, Imbalanced Data, Logistic Regression
 *Tools*: Python (pandas, numpy, seaborn, matplotlib, sklearn)
 
 
 <br/>
 #### 2. [Movie Catalog Database Design](https://github.com/crystalhariga/movie-catalog)
-![](https://user-images.githubusercontent.com/34080006/152404390-bca524f3-21eb-4ef1-8386-fe9135503b52.mov)
+<br/>
+__Check out the [demo here!](https://github.com/crystalhariga/movie-catalog#demo)__
+<br/>
 *Keywords*: Web development, API integration, Search algorithm
 *Tools*: Python (pandas, dash, requests, readData)
 
