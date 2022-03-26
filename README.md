@@ -1,13 +1,13 @@
 # Data Analytics Portfolio
 
 ## About Me
-
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/cahyarini-hariga/)!
 
 ## Projects
+* if images don't show up, please read the [GitHub version here](https://github.com/crystalhariga/crystalhariga_portfolio)
 #### 1. [Let's Catch Them Stronger Pokemon!](https://github.com/crystalhariga/pokemon)
-* Charts visualizing which Pokemon Type is the strongest, you guessed it: it's __Dragon__!
-* Logistic Regression Model to determine whether a Pokemon is Legendary for Pokemon Trainers
-  * To prevent wastage of Master PokeBalls 
+* Designed charts visualizing which Pokemon Type is the strongest, you guessed it: it's __Dragon__!
+* Built a Logistic Regression Model to determine whether a Pokemon is Legendary for Pokemon Trainers to prevent wastage of Master PokeBalls 
 
 ![](https://github.com/crystalhariga/pokemon/blob/main/img/total-stats_by_primary-type.png)
 <br/>
@@ -28,7 +28,7 @@ __Check out the [demo here!](https://github.com/crystalhariga/movie-catalog#demo
 
 <br/>
 
-#### [Predicting Cancer Cases in the US](https://github.com/crystalhariga/cancer_ml)
+#### 3. [Predicting Cancer Cases in the US](https://github.com/crystalhariga/cancer_ml)
 * Performed data preparation (transformed variables, clustering) and EDA (descriptive statistics, simple visualization) to understand more about the dataset
 * Built Prediction (Regression Tree, Linear Regression) and Classification (KNN, Logistic Regression, Boosted Tree, Bagged Tree) models to predict annual cancer cases
 * Compared best hand-crafted models with DataRobot's -- resulting in:
