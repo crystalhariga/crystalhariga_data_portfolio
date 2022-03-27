@@ -1,7 +1,11 @@
 # Data Analytics Portfolio
 
 ## About Me
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/cahyarini-hariga/)!
+Graduated with a Psychology degree, I love to understand people. 
+I pursued the path of Market Research, and accidentally discovered my passion for technology and its impact on people's lives.
+Hence, blooms my interest in data analytics, which enables me to understand people in the context of technology.
+Currently, I am a Marketing Analyst at a Tech Startup and am looking to grow my technical skills (Python, SQL) for the entire data lifecycle.
+If you resonate with me, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/cahyarini-hariga/)!
 
 ## Projects
 _*If images don't show up, please read the [GitHub version here](https://github.com/crystalhariga/crystalhariga_portfolio)_
