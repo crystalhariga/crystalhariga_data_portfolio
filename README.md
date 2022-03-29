@@ -9,7 +9,7 @@ Currently, I am a Marketing Analyst at a Tech Startup and am looking to grow my 
 If you resonate with me, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/cahyarini-hariga/)!
 
 ## Projects
-_*If images don't show up, please read the [GitHub version here](https://github.com/crystalhariga/crystalhariga_portfolio)_
+_*If images don't show up, please read the [GitHub version here](https://github.com/crystalhariga/crystalhariga_portfolio/blob/gh-pages/README.md)_
 
 #### 1. [Let's Catch Them Stronger Pokemon!](https://github.com/crystalhariga/pokemon)
 * Designed charts visualizing which Pokemon Type is the strongest, you guessed it: it's __Dragon__!
